@@ -1,0 +1,22 @@
+{
+  "name": "docfxsampleoutputrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinoreborn/docfxsampleoutputrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinoreborn/docfxsampleoutputrepo/issues"
+  },
+  "homepage": "https://github.com/dinoreborn/docfxsampleoutputrepo#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
